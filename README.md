@@ -1,2 +1,2 @@
 # repo-for-bot-testing
-Repo created just to test bot
+Repo created just to test bot :)
